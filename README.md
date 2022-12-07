@@ -8,11 +8,11 @@
   `git clone git@github.com:janaipakos/ghibliapi.git`
 
 - Abra a pasta e instale as dependências
-  `cd ghibliapi/`
-  `npm i` ou `yarn`
+  ```cd ghibliapi/```
+  ```npm i``` ou ```yarn```
 
 - Inicie o projeto
-  `npm start`
+  ```npm start```
 
 ## Iniciando a film-api
 
@@ -22,13 +22,13 @@
 - Copie o conteúdo do arquivo `.env.example` para o arquivo `.env` criado no passo anterior
 
 - Abra a pasta e instale as dependências
-  `npm i` ou `yarn`
+  ```npm i``` ou ```yarn```
 
 - Inicie o banco de dados com docker
-  `docker compose up --build -d`
+  ```docker compose up --build -d```
 
 - Inicie a aplicação
-  `yarn start:dev`
+  ```yarn start:dev```
 
 - Acesse a documentação através do path `/docs`
-  `http://localhost:4000/docs`
+  ```http://localhost:4000/docs```

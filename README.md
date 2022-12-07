@@ -50,4 +50,6 @@
 
 - Acesse a documentação através do path `/docs`
 
-  ```http://localhost:4000/docs```
+  ```
+  http://localhost:4000/docs
+  ```

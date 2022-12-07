@@ -10,6 +10,7 @@
 - Abra a pasta e instale as dependências
 
   ```cd ghibliapi/```
+  
   ```npm i``` ou ```yarn```
 
 - Inicie o projeto

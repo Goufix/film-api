@@ -9,13 +9,19 @@
 
 - Abra a pasta e instale as dependências
 
-  ```cd ghibliapi/```
+  ```sh
+  cd ghibliapi/
+  ```
   
-  ```npm i``` ou ```yarn```
+  ```sh
+  npm i
+  ```
 
 - Inicie o projeto
 
-  ```npm start```
+  ```sh
+  npm start
+  ```
 
 ## Iniciando a film-api
 
@@ -26,15 +32,21 @@
 
 - Abra a pasta e instale as dependências
 
-  ```npm i``` ou ```yarn```
+  ```sh
+  npm i
+  ```
 
 - Inicie o banco de dados com docker
 
-  ```docker compose up --build -d```
+  ```sh
+  docker compose up --build -d
+  ```
 
 - Inicie a aplicação
 
-  ```yarn start:dev```
+  ```sh
+  npm run start:dev
+  ```
 
 - Acesse a documentação através do path `/docs`
 

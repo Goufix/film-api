@@ -1,0 +1,16 @@
+export type FilmField =
+  | 'id'
+  | 'title'
+  | 'original_title'
+  | 'original_title_romanised'
+  | 'description'
+  | 'director'
+  | 'producer'
+  | 'release_date'
+  | 'running_time'
+  | 'rt_score'
+  | 'people'
+  | 'species'
+  | 'locations'
+  | 'vehicles'
+  | 'url';

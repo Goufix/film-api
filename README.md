@@ -5,7 +5,9 @@
 **Atenção!** Devido ao fato de que a API da ghibli ter sido desativada por conta da decisão da `heroku` que passou a cobrar pelas aplicações, teremos que subir essa API localmente para realizer o seed do banco!
 
 - Clone o repositorio da api
-  ```git clone git@github.com:janaipakos/ghibliapi.git```
+  ```sh
+  git clone git@github.com:janaipakos/ghibliapi.git
+  ```
 
 - Abra a pasta e instale as dependências
 
